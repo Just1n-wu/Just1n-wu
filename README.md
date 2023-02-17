@@ -63,3 +63,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
+## Blog Posts
+> Here are some websites I often read and some learning notes I published.
+
+- Website 🏄‍♂️
+  - [CSDN](https://www.csdn.net/)
+  - [Bill](https://www.bilibili.com/)
+- Publish 📡
+  - [JueJin](https://juejin.cn/user/4341348183583847) 
+  - update..
