@@ -3,7 +3,7 @@
   <div id="badges">
  
   <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Weibo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://www.instagram.com/just1n_wu_/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,10 +40,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
-> I'm a student and want to do something that interests me, Hope to study with you
+## About Me
+> I am a student and want to do something that interests me, Hope to study with you
 
 - 🏫 I’m currently studying at Huanggang Normal University
 - 🌱 I’m currently learning Network Engineering
 - 📫 How to reach me: <u>justin_wu@smail.hgnu.edu.cn</u>
-- 
+- ⚡ In my free time, I learn something about technology and play HS
+
+## Languages and Tools
+
