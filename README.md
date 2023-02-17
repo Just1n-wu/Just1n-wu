@@ -3,7 +3,7 @@
   <div id="badges">
  
   <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/Weibo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://www.instagram.com/just1n_wu_/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -49,4 +49,7 @@ Here are some ideas to get you started:
 - ⚡ In my free time, I learn something about technology and play HS
 
 ## Languages and Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
