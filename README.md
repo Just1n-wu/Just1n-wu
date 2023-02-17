@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain.svg" title="Opencv" alt="Opencv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Just1n-wu/Just1n-wu/blob/main/icon/obsidian.png" title="Obsidian" alt="Obsidian" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/Just1n-wu/Just1n-wu/blob/main/icon/obsidian.png" title="Obsidian" alt="Obsidian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
