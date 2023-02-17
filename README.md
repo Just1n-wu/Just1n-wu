@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-> if you
+> I am a student and want to do something that interests me, Hope to study with you
 
 - 🏫 I’m currently studying at Huanggang Normal University
 - 🌱 I’m currently learning Network Engineering
 - 📫 How to reach me: <u>justin_wu@smail.hgnu.edu.cn</u>
+- 
