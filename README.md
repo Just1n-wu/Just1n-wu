@@ -24,6 +24,9 @@
 
 
 # Hi there, I'm Justin 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
 **Just1n-wu/Just1n-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
