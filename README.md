@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## About Me:
 > I am a student and want to do something that interests me, Hope to study with you.
 
 - 🏫 I’m currently studying at Huanggang Normal University
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <u>justin_wu@smail.hgnu.edu.cn</u>
 - ⚡ In my free time, I learn something about technology and play [HS](https://hearthstone.blizzard.com)
 
-## Languages and Tools
+## Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C/C++" alt="C/C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
-## Blog Posts
+## Blog Posts:
 > Here are some websites I often read and some learning notes I published.
 
 - Website 🏄‍♂️
