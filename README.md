@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Justin 👋
 
 <!--
 **Just1n-wu/Just1n-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+> if you
+
+- 🏫 I’m currently studying at Huanggang Normal University
+- 🌱 I’m currently learning Network Engineering
+- 📫 How to reach me: <u>justin_wu@smail.hgnu.edu.cn</u>
