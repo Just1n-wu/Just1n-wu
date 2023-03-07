@@ -73,5 +73,5 @@ Here are some ideas to get you started:
   - [Bill](https://www.bilibili.com/)
 - Publish 📡
   - [JueJin](https://juejin.cn/user/4341348183583847) 
-  - [openCV](https://github.com/Just1n-wu/Python_/tree/main/20230222_opcv/source)
+  - [Expert](https://github.com/Just1n-wu/Python_/tree/main/20230222_opcv/source)
   - update..
