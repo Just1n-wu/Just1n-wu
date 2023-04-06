@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - 🏫 I’m currently studying at Huanggang Normal University
 - 🌱 I’m currently learning Network Engineering
-- 📫 How to reach me: <u>justin_wu@smail.hgnu.edu.cn</u>
+- 📫 How to reach me: <u>me@just1n.cn</u>
 - ⚡ In my free time, I learn something about technology and play [HS](https://hearthstone.blizzard.com)
 
 ## Languages and Tools:
